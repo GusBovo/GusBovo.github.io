@@ -17,17 +17,17 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "About me"
-title_separator          : "-"
+title                    : "Gustavo Bovo"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Gustavo Bovo"
-description              : "Indie Game Developer / Game Designer / Game Programmer"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Gustavo Bovo's portfolio website"
+url                      : "https://gusbovo.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/gusbovo_profile_pic.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : #
+masthead_title           : "ABOUT ME"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
@@ -112,11 +112,11 @@ enable_copy_code_button  : # true, false (default)
 
 
 # Site Author
-#author:
-#  name             : "Your Name"
-#  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-#  bio              : "I am an **amazing** person."
-#  location         : "Somewhere"
+author:
+  name              : "Gustavo Bovo"
+  avatar           : "/assets/gusbovo_profile_pic.jpg"
+  bio              : "Indie Game Developer / Game Designer / Game Programmer"
+  location         : "Brazil"
 #  email            :
 #  links:
 #    - label: "Email"
@@ -261,7 +261,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
@@ -269,7 +268,6 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-include-cache
 
 
