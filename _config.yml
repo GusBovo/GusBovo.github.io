@@ -27,10 +27,11 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #
-masthead_title           : "ABOUT ME"
+masthead_title           : ""
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
+author_profile           : true
 #copyright                : # "copyright" name, defaults to site.title
 #copyright_url            : # "copyright" URL, defaults to site.url
 #comments:
