@@ -16,12 +16,12 @@ The project was developed in approximately 40 hours of focused work (excluding r
 
 Here is some feedback collected from the itch.io page for this project:
 
-"For a first game, it's really cool, and the theme is well implemented. Congrats!"
-— MarcoP
+> "For a first game, it's really cool, and the theme is well implemented. Congrats!"
+> — MarcoP
 
-"Cute and entertaining game! I could easily picture this as a desktop toy to fiddle around with whenever I need a break from work!"
-— ZeusSusie
+> "Cute and entertaining game! I could easily picture this as a desktop toy to fiddle around with whenever I need a break from work!"
+> — ZeusSusie
 
-"This is pretty good for a first ever jam! It's a bit buggy, but that's to be expected in a game jam. Overall good work :)"
-— grizzy games
+> "This is pretty good for a first ever jam! It's a bit buggy, but that's to be expected in a game jam. Overall good work :)"
+> — grizzy games
 
