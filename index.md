@@ -4,7 +4,7 @@ layout: default
 
 # About me
 
-Hello! I'm Gustavo Bovo, a Brazilian solo game developer. I've been passionate about playing, designing, and writing narratives and game ideas since I was a kid. By 2022, I decided to take this passion more seriously, dedicating my free time to learning programming and experimenting with various game engines and frameworks. Recently, I made the leap by participating in my first game jam and starting my own Reddit community to share my experiences and help other aspiring game developers.
+Hello! I'm Gustavo Bovo, a Brazilian solo indie game developer. I've been passionate about playing, designing, and writing narratives and game ideas since I was a kid. By 2022, I decided to take this passion more seriously, dedicating my free time to learning programming and experimenting with various game engines and frameworks. Recently, I made the leap by participating in my first game jam and starting my own Reddit community to share my experiences and help other aspiring game developers.
 
 # Put Them On The Scale!
 
