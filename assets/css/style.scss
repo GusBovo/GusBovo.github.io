@@ -2,7 +2,35 @@
 ---
 
 @import "{{ site.theme }}";
-body, * {
-  background-color: black;
-  color: white;
+body {
+  background-color: #121212;
+}
+
+header {
+  float: none;
+  position: inherit;
+  margin: 0 auto;
+  text-align: center;
+}
+
+section {
+  float: none;
+  position: inherit;
+  background-color: #1e1e1e;
+  color: darkgrey;
+  padding-left: 4em;
+  padding-right: 4em;
+  padding-top: 4em;
+  padding-bottom: 4em;
+  margin: 0 auto;
+}
+
+footer {
+  float: none;
+  position: inherit;
+  margin: 0 auto;
+}
+
+p {
+  color: darkgrey;
 }
