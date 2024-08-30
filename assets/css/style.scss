@@ -10,7 +10,11 @@ header {
   float: none;
   position: inherit;
   margin: 0 auto;
-  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 0 0;
+  min-width: 15em;
 }
 
 section {
@@ -23,12 +27,14 @@ section {
   padding-top: 4em;
   padding-bottom: 4em;
   margin: 0 auto;
+  min-width: 10em;
 }
 
 footer {
   float: none;
   position: inherit;
   margin: 0 auto;
+  min-width: 10em;
 }
 
 h1, h2, h3, h4, h5, h6 {
