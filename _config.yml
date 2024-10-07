@@ -4,3 +4,40 @@ description: Indie game dev / Game designer / Game dev programmer
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+language_default: pt
+
+collections_dir: content
+collections:
+  pt:
+    output: true
+    permalink: /:collection/:slug
+  en:
+    output: true
+    permalink: /:collection/:slug
+
+defaults:
+  - scope:
+      path: ""
+      type: "index"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "pt"
+    values:
+      layout: "page"
+  - scope:
+      path: "pt"
+    values:
+      layout: "post"
+      permalink: /pt/:slug
+  - scope:
+      path: ""
+      type: "en"
+    values:
+      layout: "page"
+  - scope:
+      path: "en"
+    values:
+      layout: "post"
+      permalink: /en/:slug
