@@ -1,5 +1,5 @@
 languages:  
-- title: "pt" 
+- title: "Português Brasileiro" 
   url: /pt_br/index.md 
-- title: "en" 
+- title: "English" 
   url: /
