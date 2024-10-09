@@ -17,13 +17,13 @@ header {
   min-width: 15em;
 }
 
-li .language {
+.language {
   list-style-type: none;
   padding: 0;
   display: flex;
 }
 
-.language ul {
+.language li {
   margin: 0 0.5em;
 }
 
