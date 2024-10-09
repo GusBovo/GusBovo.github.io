@@ -36,13 +36,12 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-
-        {% for item in site.data.navigation.languages %} 
-        {% assign link = url %} 
-        {% else %} 
-        {% assign link = url | relative_url %} 
-        <a class="page-link" href="{{ link }}">{{ title }}</a> 
-        {% endfor %}
+        
+        <ul>
+          {% for item in site.data.navigation.languages %} 
+            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+          {% endfor %}
+        </ul>
 
       </header>
       <section>
