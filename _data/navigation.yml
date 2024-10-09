@@ -1,5 +1,5 @@
 languages:  
 - title: "pt" 
-  url: /content/pt_br/index.md 
+  url: /pt_br/index.md 
 - title: "en" 
   url: /
