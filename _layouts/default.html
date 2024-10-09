@@ -38,11 +38,9 @@
         {% endif %}
 
         {% for item in site.data.navigation.languages %} 
-        {% if link contains "http" %} 
         {% assign link = url %} 
         {% else %} 
         {% assign link = url | relative_url %} 
-        {% endif %} 
         <a class="page-link" href="{{ link }}">{{ title }}</a> 
         {% endfor %}
 
