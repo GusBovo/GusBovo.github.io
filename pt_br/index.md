@@ -20,13 +20,13 @@ O jogo foi desenvolvido em aproximadamente 40 horas de trabalho constante (sem l
 Seguem alguns dos comentários feitos na página do jogo no itch.io:
 
 > "Para um primeiro jogo, é bem legal, e o tema foi bem implementado. Parabéns!"
-> — MarcoP
+> > — MarcoP
 
 > "Jogo bonitinho e divertido! Eu consigo imaginar ele como um joguinho de área de trabalho para ficar brincado sempre que quisesse dar uma pausa no trabalho!"
 > > — ZeusSusie
 
 > "É muito bom para uma primeira vez em uma Game jam! É um pouquinho bugado, mas é o esperado em uma game jam. Bom trabalho no geral :)"
-> — grizzy games
+> > — grizzy games
 
 Segue aqui um trecho do _post-mortem_ que postei em minha comunidade do Reddit (versão completa em inglês) – [Finding and Maintaining Scale](https://www.reddit.com/r/visions_ofBlack_Skies/comments/1f2m5i7/finding_and_maintaining_scale_a_gmtk_game_jam/):
 
