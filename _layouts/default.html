@@ -40,7 +40,7 @@
         <ul class="language">
           {% for item in site.data.navigation.languages %} 
             <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-            {% if item != site.data.navitgation.languages.last - 1 %}
+            {% if item.title != site.data.navitgation.languages.title.last %}
               <div>|</div>
             {% endif %}
           {% endfor %}
