@@ -13,6 +13,8 @@ Em agosto de 2024, participei da GMTK’s Game Jam 2024, uma das maiores Game Ja
 
 [Put Them On The Scale!](https://itch.io/jam/gmtk-2024/rate/2889944) alcançou a posição #2604, colocando-o entre os 35% melhores jogos da evento.
 
+"Put Them On The Scale!" é um jogo de física onde os jogadores devem empilhar diversos veículos na tentativa de alcançar a Lua. Criado para ser uma experiência divertida e descontraída, o jogo incorpora o tema tema da game jam, "Built to Scale", com uma reviravolta na maneira que o mesmo é interpretado.
+
 O jogo foi desenvolvido em aproximadamente 40 horas de trabalho constante (sem levar em conta tempo de descanso). Apesar dos desafios de trabalhar sozinho sob a pressão de entregar o projeto em menos de 96 horas, fui capaz de completá-lo e entregá-lo a tempo.
 
 Seguem alguns dos comentários feitos na página do jogo no itch.io:
@@ -26,10 +28,8 @@ Seguem alguns dos comentários feitos na página do jogo no itch.io:
 > "É muito bom para uma primeira vez em uma Game jam! É um pouquinho bugado, mas é o esperado em uma game jam. Bom trabalho no geral :)"
 > — grizzy games
 
-"Put Them On The Scale!" é um jogo de física onde os jogadores devem empilhar diversos veículos na tentativa de alcançar a Lua. Criado para ser uma experiência divertida e descontraída, o jogo incorpora o tema tema da game jam, "Built to Scale", com uma reviravolta na maneira que o mesmo é interpretado.
-
 Segue aqui um trecho do _post-mortem_ que postei em minha comunidade do Reddit (versão completa em inglês) – [Finding and Maintaining Scale](https://www.reddit.com/r/visions_ofBlack_Skies/comments/1f2m5i7/finding_and_maintaining_scale_a_gmtk_game_jam/):
 
-> My goal was to create a game about a mad scientist who invented the world’s greatest weighing scale. But no one believed him, so he set out to prove it by using his Matter Manipulator gun to stack as many objects as possible onto the scale.
->
-> I played with the word "scale," exploring its multiple meanings — from scaly animals to the concept of measurement. At first, I fixated on an idea involving a pangolin (an anteater with scales) that would build objects onto its scales to grow bigger and stronger. However, I struggled to make that concept fun. After hours of brainstorming, I landed on the idea of a weighing scale that could measure anything placed on it, allowing players to build a towering structure while trying to maintain balance.
+> Meu objetivo era criar um jogo sobre um cientista maluco que havi inventado a balança de pesagem mais incrível do mundo. Mas, como nínguem acreditou, ele decidiu provar ao usar sua arma de Manipulação de Matéria para empilhar o máximo de objetos possíveis na balança.
+> 
+> Trabalhei na palavra "scale" - que possuí diversos significados em português, como balança de pesagem, escala, escama ou proporção. Num primeiro momento, eu estava focado nesta ideia que envolvia um pangolim (um animal que se assemelha a um tamanduá, mas com escamas) que iria construir objetos e fixá-los em suas escamas - interpretando o tema de maneira que "Built to Scale" significasse literalmente "contruir em escamas" - para que ele se tornasse cada vez maior e mais forte no decorrer do jogo. Entretanto, tive dificuldade em achar algo que fosse realmente divertido neste conceito. Após horas de brinstorming, acabei por chegar na idea de uma balnça de pesagem que pudesse medir qualquer coisa colocada sobre esta, permitindo que os jogadores construissem um estrutura de torre enquanto tentavam manter tudo em equilíbrio.
