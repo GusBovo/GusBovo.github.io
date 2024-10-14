@@ -20,13 +20,13 @@ The game was developed over approximately 40 hours of focused work (excluding re
 Here’s some feedback from the game’s itch.io page:
 
 > "For a first game, it's really cool, and the theme is well implemented. Congrats!"
-> — MarcoP
+> > — MarcoP
 
 > "Cute and entertaining game! I could easily picture this as a desktop toy to fiddle around with whenever I need a break from work!"
-> — ZeusSusie
+> > — ZeusSusie
 
 > "This is pretty good for a first ever jam! It's a bit buggy, but that's to be expected in a game jam. Overall good work :)"
-> — grizzy games
+> > — grizzy games
 
 Here's an excerpt from my _post-mortem_ posted on my Reddit community – [Finding and Maintaining Scale](https://www.reddit.com/r/visions_ofBlack_Skies/comments/1f2m5i7/finding_and_maintaining_scale_a_gmtk_game_jam/):
 
