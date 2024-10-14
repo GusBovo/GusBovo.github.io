@@ -38,11 +38,11 @@
         {% endif %}
         
         <ul class="language">
-          {% for item in site.data.navigation.languages %} 
+          {% for item in site.data.navigation.languages %}
             <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-            {% if item.title != site.data.navitgation.languages.title.last %}
+            {% unless forloop.last %}
               <div>|</div>
-            {% endif %}
+            {% endunless %}
           {% endfor %}
         </ul>
 
