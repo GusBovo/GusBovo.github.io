@@ -13,6 +13,8 @@ In August 2024, I participated in GMTK’s Game Jam 2024, one of the largest jam
 
 [Put Them On The Scale!](https://itch.io/jam/gmtk-2024/rate/2889944) ranked #2604, placing it in the top 35% of all games submitted.
 
+"Put Them On The Scale!" is a physics-based game where players stack various vehicles in an attempt to reach the moon. Designed to be a fun and light-hearted experience, it incorporates the jam’s theme, “Built to Scale,” with a unique twist.
+
 The game was developed over approximately 40 hours of focused work (excluding rest). Despite the challenges of working solo under the pressure of a 96-hour deadline, I successfully completed and submitted the project on time.
 
 Here’s some feedback from the game’s itch.io page:
@@ -25,8 +27,6 @@ Here’s some feedback from the game’s itch.io page:
 
 > "This is pretty good for a first ever jam! It's a bit buggy, but that's to be expected in a game jam. Overall good work :)"
 > — grizzy games
-
-"Put Them On The Scale!" is a physics-based game where players stack various vehicles in an attempt to reach the moon. Designed to be a fun and light-hearted experience, it incorporates the jam’s theme, “Built to Scale,” with a unique twist.
 
 Here's an excerpt from my _post-mortem_ posted on my Reddit community – [Finding and Maintaining Scale](https://www.reddit.com/r/visions_ofBlack_Skies/comments/1f2m5i7/finding_and_maintaining_scale_a_gmtk_game_jam/):
 
