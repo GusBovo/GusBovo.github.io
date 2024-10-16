@@ -1,6 +1,7 @@
 title: Gustavo Bovo
 logo: ./assets/gusbovo_profile_pic.png
-description: Indie game dev / Game designer / Game dev programmer
+description: Indie Game Developer / Game Designer / Game Programmer
+description_pt_br: Desenvolvedor de Jogos Indie / Designer de Jogos / Programador de Jogos
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
