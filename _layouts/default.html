@@ -17,9 +17,9 @@
     {% assign current_lang = page.url contains 'pt_br' | default: 'en' %}
 
     {% if current_lang == 'pt_br' %}
-      {% assign translation = site.data.translations.pt_br %}
+      {% assign translation = site.data.translation.pt_br %}
     {% else %}
-      {% assign translation = site.data.translations.en %}
+      {% assign translation = site.data.translation.en %}
     {% endif %}
     
     <div class="wrapper">
