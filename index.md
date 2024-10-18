@@ -1,6 +1,7 @@
 ---
 layout: default
 author_profile: true
+lang: en
 ---
 
 # About me
