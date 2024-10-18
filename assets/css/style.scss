@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+@media (max-width: 768px) {
+  section {
+    padding: 1em;
+  }
+}
+
 * {
   box-sizing: border-box;
 }
@@ -22,9 +28,9 @@ header {
 }
 
 .language {
-  list-style-type: none;
-  padding: 0;
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .language li {
