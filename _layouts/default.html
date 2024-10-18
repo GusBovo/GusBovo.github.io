@@ -14,7 +14,7 @@
   </head>
   <body>
 
-    {% assign current_lang = page.path contains 'pt_br' | default: 'en' %}
+    {% assign current_lang = page.lang | default: 'en' %}
 
     {% if current_lang == 'pt_br' %}
       {% assign translation = site.data.translation.pt_br %}
