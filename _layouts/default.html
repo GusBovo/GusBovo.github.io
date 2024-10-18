@@ -42,7 +42,7 @@
         
         <ul class="language">
           {% for item in site.data.navigation.languages %}
-            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+            <li><a href="{{ item.url }}" class="{% if page.url == item.url %}active{% endif %}">{{ item.title }}</a></li>
             {% unless forloop.last %}
               <div>|</div>
             {% endunless %}
