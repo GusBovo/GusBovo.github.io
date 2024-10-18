@@ -2,19 +2,23 @@
 ---
 
 @import "{{ site.theme }}";
+
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-color: #121212;
 }
 
 header {
-  float: none;
-  position: inherit;
-  margin: 0 auto;
   display: flex;
   align-items: center;
   flex-direction: column;
-  padding: 0 0;
-  min-width: 15em;
+  padding: 0;
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
 }
 
 .language {
@@ -28,23 +32,19 @@ header {
 }
 
 section {
-  float: none;
-  position: inherit;
   background-color: #1e1e1e;
   color: darkgrey;
-  padding-left: 4em;
-  padding-right: 4em;
-  padding-top: 4em;
-  padding-bottom: 4em;
+  padding: 2em;
   margin: 0 auto;
-  min-width: 10em;
+  max-width: 100%;
+  width: 100%;
+  overflow-wrap: break-word;
 }
 
 footer {
-  float: none;
-  position: inherit;
   margin: 0 auto;
-  min-width: 10em;
+  width: 100%;
+  max-width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
