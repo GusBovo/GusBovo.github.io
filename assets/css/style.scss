@@ -44,6 +44,12 @@ header ul {
   margin: 0 0.5em;
 }
 
+.language a.active{
+  color: #88c399;
+  font-weight: bold;
+  border-bottom: 1px solid #88c399;
+}
+
 section {
   background-color: #1e1e1e;
   color: darkgrey;
